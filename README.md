@@ -11,3 +11,7 @@ This system is designed to ensure your plants receive the right amount of water 
 - Remote Monitoring: Provides the ability to monitor and control your plant's watering needs from anywhere.
  
 This project is perfect for plant enthusiasts and busy individuals who want to ensure their plants are healthy and well-maintained with minimal effort. Enjoy peace of mind knowing your plants are in good hands with our Smart Plant Watering System.
+
+## Team Members
+1. [Amina Čajić](https://github.com/aminacajic)
+2. [Una Hodžić](https://github.com/unahodzic1)
