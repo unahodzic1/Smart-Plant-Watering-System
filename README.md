@@ -17,3 +17,10 @@ This project is perfect for plant enthusiasts and busy individuals who want to e
 2. [Amina Čajić](https://github.com/aminacajic)
 3. [Una Hodžić](https://github.com/unahodzic1)
 
+----------------
+
+*Faculty of Electrical Engineering*
+
+*University of Sarajevo*
+
+
