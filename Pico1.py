@@ -70,7 +70,7 @@ def print_low_water_lvl_warning_message_TFT():
 
 nic = network.WLAN(network.STA_IF)
 nic.active(True)
-nic.connect('Amina', 'amina123')
+nic.connect('Lab220', 'lab220lozinka')
 
 while not nic.isconnected():
     print("Waiting for connection...")
