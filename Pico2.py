@@ -26,7 +26,7 @@ for i in range(10):
 
 nic = network.WLAN(network.STA_IF)
 nic.active(True)
-nic.connect('Amina', 'amina123')
+nic.connect('Lab220', 'lab220lozinka')
 
 while not nic.isconnected():
     print("Waiting for connection ...")
