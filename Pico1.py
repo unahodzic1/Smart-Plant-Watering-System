@@ -128,7 +128,7 @@ def temperature_humidity():
         dht11_sensor.measure()
         temperature = dht11_sensor.temperature()
         humidity = dht11_sensor.humidity()
-        if temperature > 10:
+        if temperature > 40:
             print_high_temp_warning_message_TFT()
         else:
             display.erase()
